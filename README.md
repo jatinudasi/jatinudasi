@@ -1,7 +1,7 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :23.09.2021](https://img.shields.io/badge/version-23.09.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=jatinudasi&color=red)&nbsp;
-[![GitHub souravjain540](https://img.shields.io/github/followers/jatinudasi?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+[![GitHub souravjain540](https://img.shields.io/github/followers/jatinudasi?label=follow&style=social)](https://github.com/jatinudasi)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
