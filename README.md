@@ -1,18 +1,14 @@
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
 ![version :23.09.2021](https://img.shields.io/badge/version-23.09.2021-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=jatinudasi&color=red)&nbsp;
-[![GitHub souravjain540](https://img.shields.io/github/followers/AbhishekSinghDhadwal?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
+[![GitHub souravjain540](https://img.shields.io/github/followers/jatinudasi?label=follow&style=social)](https://github.com/AbhishekSinghDhadwal)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full Stack software developer and content creator, working on making full stack applications using MERN stack. \
-💻 &nbsp;I'm currenty making websites and making contetn on my Twitter handle.\
+💡 &nbsp; I'm a Full Stack software developer , working on making full stack applications using MERN stack. \
+
 🎓&nbsp;I graduated from BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
-🌱 &nbsp;I'm on track for learning more about Cloud Technologies.\
-✍️ &nbsp;In my free time, I listen to songs and love to watch Sci-Fi movies.\
-💬 &nbsp;Feel free to reach out to me for any Opportunity related to DevRel, Content Creation or any above mentioned skill!\
 ✉️ &nbsp;You can email me at jatin.udasi88@gmail.com. I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Twitter](https://twitter.com/) for more details about me.
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -31,6 +27,5 @@
 
 ### 📫 &nbsp; How to reach me:
 
-<a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%230077B5.svg?&style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
 <a href="https://www.linkedin.com/in/jatin-udasi-536251212/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 <a href="mailto:jatin.udasi88@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
