@@ -5,10 +5,8 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full Stack software developer , working on making full stack applications using MERN stack. \
-
-🎓&nbsp;I graduated from BM Institute of Engg and Technology (B.Tech, Computer Science and Engineering, Batch of 2021) CGPA- 9.09.\
-✉️ &nbsp;You can email me at jatin.udasi88@gmail.com. I'll try to respond as soon as possible!\
+💡 &nbsp; I'm a Full Stack software developer , working on making full stack applications using MERN stack. 
+✉️ &nbsp;You can email me at jatin.udasi88@gmail.com. I'll try to respond as soon as possible!
 
 
 ### 🛠 &nbsp;Tech Stack
