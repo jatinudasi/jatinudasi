@@ -22,6 +22,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Terraform](https://asset.cloudinary.com/dfbpqxkkl/9e09c5473de12a9a0585b39e39f5cb21)&nbsp;
 
 ### 📫 &nbsp; How to reach me:
 
